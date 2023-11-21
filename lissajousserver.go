@@ -1,3 +1,4 @@
+// Lissajous Server is a server that produces lissajous images.
 package main
 
 import (
